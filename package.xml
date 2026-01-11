@@ -5,7 +5,7 @@
   <version>0.0.0</version>
   <description>Use pcl::CropBox to crop lidar pointclouds</description>
   <maintainer email="an9qi@yandex.com">cod-sentry</maintainer>
-  <license></license>
+  <license>TODO:add license</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
